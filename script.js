@@ -86,7 +86,7 @@ const showFruits = () => {
     <h5 class="card-title text-center">${fruits[data].name}</h5>
   </div>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item"> Biji: ${fruits[data].divisi}</li>
+    <li class="list-group-item"> Divisi: ${fruits[data].divisi}</li>
     <li class="list-group-item">Nama Latin: ${fruits[data].latin}</li>
   </ul>
 </div>
